@@ -1,0 +1,4 @@
+Total sales from sold transaction is: 3013.02 
+The most popular fruit is: grapes
+The average transaction value is: 15.05761
+The biggest spender is: Person59
